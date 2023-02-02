@@ -25,7 +25,7 @@ width = "64" height = "64" alt = "SQL">
 width = "64" height = "64" alt = "H2">
 <img src = "https://www.postgresql.org/media/img/about/press/elephant.png"
 width = "64" height = "64" alt = "Postgres">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/245px-Spring_Framework_Logo_2018.svg.png?20181210015349"
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg"
 width = "64" height = "64" alt = "Postgres">
 
 
