@@ -2,7 +2,7 @@
 =
 <img src = "https://i0.wp.com/www.budgetsaresexy.com/images/keep-working-animated-gif.gif?resize=1400%2C9999"
 width = "450" height = "300" alt = "пример" align = "right" />
-_My name is Zaripov Ildar. Now i'm just a student but one day i will be a real backend developer 😀_
+_My name is Zaripov Ildar and I'm a java developer_
 
 
 <hr>
