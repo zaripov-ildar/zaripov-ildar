@@ -1,31 +1,25 @@
-**_Hey there!_**
-=
-<img src = "https://i0.wp.com/www.budgetsaresexy.com/images/keep-working-animated-gif.gif?resize=1400%2C9999"
-width = "450" height = "300" alt = "пример" align = "right" />
-_My name is Zaripov Ildar and I'm a java developer_
+## Hey there! It's nice to see you!
 
 
-<hr>
+My name is Ildar and I'm a java developer
 
-_Things familiar to me already:_
+Welcome to my page.
+Languages and tools i use:
 
-<img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"
-width = "64" height = "64" alt = "Java">
-<img src = "https://avatars.githubusercontent.com/u/473791?s=280&v=4"
-width = "64" height = "64" alt = "Netty">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-width = "64" height = "64" alt = "HTML">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-width = "64" height = "64" alt = "CSS">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-width = "64" height = "64" alt = "JS">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
-width = "64" height = "64" alt = "SQL">
-<img src = "https://www.h2database.com/html/images/h2-logo-2.png"
-width = "64" height = "64" alt = "H2">
-<img src = "https://www.postgresql.org/media/img/about/press/elephant.png"
-width = "64" height = "64" alt = "Postgres">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"
-width = "128" height = "128" alt = "SpringFramework">
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
+
+
+My projects:
+
+
 
 
