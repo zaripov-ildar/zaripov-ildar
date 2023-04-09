@@ -18,6 +18,7 @@ Languages and tools i use:
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 ![](https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white)
+![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
 
 
 My projects:
@@ -43,9 +44,15 @@ My projects:
     </td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td><a href="https://github.com/zaripov-ildar/AlgorithmicTasks" alt="AlgorithmicTasks">Algorithmic tasks</td>
+    <td>
+     Algorithmic tasks from <a href="https://leetcode.com/problemset/algorithms/" alt="LeetCode">LeetCode</a> and not only. Formulations, solutions, tests
+   </td>
+    <td>
+     <img src="https://img.shields.io/badge/Java-orange" alt="Java 18">
+     <img src="https://img.shields.io/badge/Junit-brightgreen" alt="JUnit">
+     <img src="https://img.shields.io/badge/Markdown-black" alt="Markdown">
+   </td>
   </tr>
 </table> 
 
