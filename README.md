@@ -35,12 +35,12 @@ My projects:
     <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 18">
       <img src="https://img.shields.io/badge/Spring-green" alt="Spring">
-      <img src="https://img.shields.io/badge/Junit-brightgreen" alt="JUnit">
+      <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
       <img src="https://img.shields.io/badge/Redis-red" alt="Redis">
       <img src="https://img.shields.io/badge/Keycloack-grey" alt="Keycloack">
       <img src="https://img.shields.io/badge/HTML-important" alt="Java 18">
-      <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">
-      <img src="https://img.shields.io/badge/AngularJs-critical" alt="AngularJs">      
+      <img src="https://img.shields.io/badge/JavaScript-ffff66" alt="JavaScript">
+      <img src="https://img.shields.io/badge/AngularJs-e62e00" alt="AngularJs">      
     </td>
   </tr>
   <tr>
