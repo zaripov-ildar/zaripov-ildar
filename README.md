@@ -1,10 +1,10 @@
 ## Hey there! It's nice to see you!
 
+Welcome to my page.</br>My name is Ildar and I'm a java developer
 
-My name is Ildar and I'm a java developer
 
-Welcome to my page.
-Languages and tools i use:
+
+### Languages and tools i use:
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
@@ -19,6 +19,7 @@ Languages and tools i use:
 ![](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 ![](https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white)
 ![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 
 My projects:
