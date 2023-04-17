@@ -20,7 +20,7 @@ Welcome to my page.</br>My name is Ildar and I'm a java developer
 ![](https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white)
 ![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-
+![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 My projects:
 
@@ -41,7 +41,7 @@ My projects:
       <img src="https://img.shields.io/badge/Keycloack-grey" alt="Keycloack">
       <img src="https://img.shields.io/badge/HTML-important" alt="Java 18">
       <img src="https://img.shields.io/badge/JavaScript-ffff66" alt="JavaScript">
-      <img src="https://img.shields.io/badge/AngularJs-e62e00" alt="AngularJs">      
+      <img src="https://img.shields.io/badge/AngularJs-e62e00" alt="AngularJs">    
     </td>
   </tr>
   <tr>
