@@ -32,7 +32,7 @@ My projects:
   </tr>
   <tr>
     <td><a href="https://github.com/zaripov-ildar/iStore/blob/main/README.md">Online store</a></td>
-    <td>The online store based on a micro service architecture.</td>
+    <td>An online store based on a micro service architecture.</td>
     <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 18">
       <img src="https://img.shields.io/badge/Spring-green" alt="Spring">
