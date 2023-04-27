@@ -45,7 +45,7 @@ My projects:
   <tr>
     <td><a href="https://github.com/zaripov-ildar/AlgorithmicTasks" alt="AlgorithmicTasks">Algorithmic tasks</td>
     <td>
-     Algorithmic tasks from <a href="https://leetcode.com/problemset/algorithms/" alt="LeetCode">LeetCode</a> and not only. Formulations, solutions, tests
+     Algorithmic tasks from <a href="https://leetcode.com/Zariil/" alt="LeetCode">LeetCode</a> and not only. Formulations, solutions, tests
    </td>
     <td>
      <img src="https://img.shields.io/badge/Java-orange" alt="Java 18">
