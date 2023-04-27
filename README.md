@@ -31,17 +31,15 @@ My projects:
     <th>Technologies</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/zaripov-ildar/iStore/blob/main/README.md">Online store</a></td>
-    <td>An online store based on a micro service architecture.</td>
+    <td><a href="https://github.com/zaripov-ildar/iStore_auth_service">Authorization server</a></td>
+    <td>This project implements security using Spring Boot 3.0 and JSON Web Tokens.</td>
     <td>
-      <img src="https://img.shields.io/badge/Java-orange" alt="Java 18">
-      <img src="https://img.shields.io/badge/Spring-green" alt="Spring">
+      <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
+      <img src="https://img.shields.io/badge/SprinSecurity-green" alt="Spring security"> 
+      <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot"> 
+      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">      
       <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
-      <img src="https://img.shields.io/badge/Redis-red" alt="Redis">
-      <img src="https://img.shields.io/badge/Keycloack-grey" alt="Keycloack">
-      <img src="https://img.shields.io/badge/HTML-important" alt="Java 18">
-      <img src="https://img.shields.io/badge/JavaScript-ffff66" alt="JavaScript">
-      <img src="https://img.shields.io/badge/AngularJs-e62e00" alt="AngularJs">    
+      <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
     </td>
   </tr>
   <tr>
