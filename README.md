@@ -46,7 +46,7 @@ My projects:
   </tr>
  
   <tr>
-   <td><a href="https://github.com/zaripov-ildar/product_service">Product server</a></td> 
+   <td><a href="https://github.com/zaripov-ildar/iStore_product_service">Product server</a></td> 
   <td>
    This project implements a service of orders and goods using Spring Boot 3.0 and integration with other servers using webflux
   </td>
