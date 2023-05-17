@@ -39,6 +39,7 @@ My projects:
     <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
       <img src="https://img.shields.io/badge/SprinSecurity-green" alt="Spring security"> 
+     <img src="https://img.shields.io/badge/JWT-grey" alt="JSON web token"> 
       <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot"> 
       <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">      
       <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
@@ -53,8 +54,9 @@ My projects:
   </td>
   <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
-      <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot"> 
-      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">      
+      <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot">     
+      <img src="https://shields.io/badge/Weblux-grey"> 
+      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">         
       <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
       <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
     </td>
