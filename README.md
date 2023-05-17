@@ -25,11 +25,13 @@ Welcome to my page.</br>My name is Ildar and I'm a java developer
 My projects:
 
  <table>
+ 
   <tr>
     <th>Title</th>
     <th>Description</th>
     <th>Technologies</th>
   </tr>
+ 
   <tr>
     <td><a href="https://github.com/zaripov-ildar/iStore_auth_service">Authorization server</a></td>
     <td>This project implements security using Spring Boot 3.0 and JSON Web Tokens.</td>
@@ -42,6 +44,21 @@ My projects:
       <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
     </td>
   </tr>
+ 
+  <tr>
+   <td><a href="https://github.com/zaripov-ildar/iStore_auth_service">Product server</a></td> 
+  <td>
+   This project implements a service of orders and goods using Spring Boot 3.0 and integration with other servers using webflux
+  </td>
+  <td>
+      <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
+      <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot"> 
+      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">      
+      <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
+      <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
+    </td>
+ </tr>
+ 
   <tr>
     <td><a href="https://github.com/zaripov-ildar/AlgorithmicTasks" alt="AlgorithmicTasks">Algorithmic tasks</td>
     <td>
@@ -53,6 +70,7 @@ My projects:
      <img src="https://img.shields.io/badge/Markdown-black" alt="Markdown">
    </td>
   </tr>
+ 
 </table> 
 
 
