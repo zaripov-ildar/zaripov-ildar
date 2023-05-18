@@ -35,7 +35,7 @@ My projects:
  
   <tr>
     <td><a href="https://github.com/zaripov-ildar/iStore_auth_service">Authorization server</a></td>
-    <td>This project implements security using Spring Boot 3.0 and JSON Web Tokens.</td>
+    <td>This project implements security microservice using Spring Boot 3.0 and JSON Web Tokens.</td>
     <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
       <img src="https://img.shields.io/badge/SprinSecurity-green" alt="Spring security"> 
@@ -51,7 +51,7 @@ My projects:
   <tr>
    <td><a href="https://github.com/zaripov-ildar/iStore_product_service">Product server</a></td> 
   <td>
-   This project implements a service of orders and goods using Spring Boot 3.0 and integration with other servers using webflux
+   This project implements a microservice of orders and goods using Spring Boot 3.0 and integration with other servers using webflux
   </td>
   <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
@@ -67,7 +67,7 @@ My projects:
   <tr>
    <td><a href="https://github.com/zaripov-ildar/iStore_cart_service">Cart server</a></td> 
   <td>
-   This project implements a cart service using Spring Boot 3.0 and integration with other servers using webflux
+   This project implements a cart microservice using Spring Boot 3.0 and integration with other servers using webflux
   </td>
   <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
