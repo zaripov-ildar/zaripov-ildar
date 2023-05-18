@@ -73,7 +73,7 @@ My projects:
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
       <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot">     
       <img src="https://shields.io/badge/Weblux-grey"> 
-      <img src="https://img.shields.io/badge/Redis-red" alt="Redis">      
+      <img src="https://img.shields.io/badge/Redis-c33" alt="Redis">      
       <img src="https://img.shields.io/badge/Mockito-grey" alt="Mockito">    
       <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
       <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
