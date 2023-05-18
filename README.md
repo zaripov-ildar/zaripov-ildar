@@ -39,9 +39,10 @@ My projects:
     <td>
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
       <img src="https://img.shields.io/badge/SprinSecurity-green" alt="Spring security"> 
-     <img src="https://img.shields.io/badge/JWT-grey" alt="JSON web token"> 
+      <img src="https://img.shields.io/badge/JWT-grey" alt="JSON web token"> 
       <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot"> 
-      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">      
+      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">     
+      <img src="https://img.shields.io/badge/Mockito-grey" alt="Mockito"> 
       <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
       <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
     </td>
@@ -56,7 +57,24 @@ My projects:
       <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
       <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot">     
       <img src="https://shields.io/badge/Weblux-grey"> 
-      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">         
+      <img src="https://img.shields.io/badge/Postgres-blue" alt="Postgres">    
+      <img src="https://img.shields.io/badge/Mockito-grey" alt="Mockito"> 
+      <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
+      <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
+    </td>
+ </tr>
+ 
+  <tr>
+   <td><a href="https://github.com/zaripov-ildar/iStore_cart_service">Cart server</a></td> 
+  <td>
+   This project implements a cart service using Spring Boot 3.0 and integration with other servers using webflux
+  </td>
+  <td>
+      <img src="https://img.shields.io/badge/Java-orange" alt="Java 17">      
+      <img src="https://img.shields.io/badge/SprinBoot-green" alt="Spring Boot">     
+      <img src="https://shields.io/badge/Weblux-grey"> 
+      <img src="https://img.shields.io/badge/Redis-red" alt="Redis">      
+      <img src="https://img.shields.io/badge/Mockito-grey" alt="Mockito">    
       <img src="https://img.shields.io/badge/Junit-267326" alt="JUnit">
       <img src="https://img.shields.io/badge/H2-blue" alt="H2 database">          
     </td>
